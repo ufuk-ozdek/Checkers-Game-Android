@@ -2,13 +2,13 @@
 
 8X8 Checkers Game with Kotlin
 
-** HOW TO PLAY **
+# **HOW TO PLAY**
 
 The game is played on a board with 8x8 squares
 
 Each player has 12 pieces
 
-**Moves and captures**
+## **Moves and captures**
 
 White starts first
 
@@ -22,11 +22,11 @@ A jumped piece is removed from the board at the end of the turn.
 
 The same piece may not be jumped more than once.
 
-**Crowning**
+## **Crowning**
 
 A piece is crowned if it stops on the far edge of the board at the end of its turn __that is, not if it reaches the edge but must then jump another piece backward.__ Crowned pieces, *kings*, can move diagonally forward or backward. King can move multiple steps in any direction but must jump over and hence capture an opponent piece some distance away and choose where to stop afterwards, but must still capture the maximum number of pieces possible.
 
-**Win Condition**
+## **Win Condition**
 
 Player wins when opponent has no piece in the board.
 
