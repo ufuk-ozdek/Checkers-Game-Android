@@ -41,13 +41,11 @@ object CheckersPlay {
         if (blackCount < 1) {
             // white has won
             Log.d(TAG, "WHITE HAS WON")
-            reset()
             return 1
         }
         if (whiteCount < 1) {
             //black has won
             Log.d(TAG, "BLACK HAS WON")
-            reset()
             return -1
         }
         return 0
