@@ -2,6 +2,10 @@
 
 8X8 Checkers Game with Kotlin
 
+
+
+
+
 # **HOW TO PLAY**
 
 The game is played on a board with 8x8 squares
@@ -29,5 +33,7 @@ A piece is crowned if it stops on the far edge of the board at the end of its tu
 ## **Win Condition**
 
 Player wins when opponent has no piece in the board.
+
+
 
 ![device-2022-08-28-104720](https://user-images.githubusercontent.com/70910355/187064026-43c4cedb-7cec-4af0-bde9-3288abe7be96.gif)
