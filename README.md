@@ -8,9 +8,7 @@
 
 ## **HOW TO PLAY**
 
- The game is played on a board with 8x8 squares
-
- Each player has 12 pieces
+ The game is played on a board with 8x8 squares -- Each player has 12 pieces
 
 ### **Moves and captures**
 
@@ -18,7 +16,7 @@
   
   *Ordinary* (Basic) pieces move one square diagonally forward to an unoccupied square.
   
-  Enemy pieces can be captured by jumping over the enemy piece, two squares forward or backward to an unoccupied square immediately beyond.
+  Enemy pieces can be captured __by jumping over__ the enemy piece, two squares forward or backward to an unoccupied square immediately beyond.
   
   Multiple successive jumps forward or backward in a single turn can and __must be made__ if after each jump there is an unoccupied square immediately      beyond the enemy piece.
   
@@ -36,7 +34,7 @@ King can move multiple steps in any direction but must jump over and hence captu
 
 ### **Win Condition**
 
-Player wins when opponent has no piece in the board.
+Player wins when opponent has __no piece__ in the board.
 
 
 
