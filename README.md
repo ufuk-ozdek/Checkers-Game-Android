@@ -8,13 +8,14 @@
 
 ## **HOW TO PLAY**
 
--> The game is played on a board with 8x8 squares
+ The game is played on a board with 8x8 squares
 
--> Each player has 12 pieces
+ Each player has 12 pieces
 
 ### **Moves and captures**
 
   White starts first
+  
   *Ordinary* (Basic) pieces move one square diagonally forward to an unoccupied square.
   
   Enemy pieces can be captured by jumping over the enemy piece, two squares forward or backward to an unoccupied square immediately beyond.
