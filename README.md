@@ -15,10 +15,9 @@
 ### **Moves and captures**
 
   White starts first
-  
   *Ordinary* (Basic) pieces move one square diagonally forward to an unoccupied square.
   
-  Enemy pieces can and must be captured by jumping over the enemy piece, two squares forward or backward to an unoccupied square immediately beyond.
+  Enemy pieces can be captured by jumping over the enemy piece, two squares forward or backward to an unoccupied square immediately beyond.
   
   Multiple successive jumps forward or backward in a single turn can and __must be made__ if after each jump there is an unoccupied square immediately      beyond the enemy piece.
   
