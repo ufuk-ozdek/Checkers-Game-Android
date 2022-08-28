@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkers</string>
+    <string name="play">Play</string>
+    <string name="layout_menu">layout_menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="black_points">Black : %s</string>
+    <string name="white_points">White : %s</string>
+</resources>
