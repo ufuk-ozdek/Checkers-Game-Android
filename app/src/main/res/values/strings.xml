@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">checkers</string>
+    <string name="app_name">Checkers</string>
     <string name="play">Play</string>
     <string name="layout_menu">layout_menu</string>
     <!-- TODO: Remove or change this placeholder text -->
