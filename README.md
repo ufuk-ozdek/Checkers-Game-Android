@@ -3,8 +3,7 @@
 8X8 Checkers Game with Kotlin
 
 
-
-
+![device-2022-08-28-104720](https://user-images.githubusercontent.com/70910355/187064026-43c4cedb-7cec-4af0-bde9-3288abe7be96.gif)
 
 ## **HOW TO PLAY**
 
@@ -37,5 +36,3 @@ King can move multiple steps in any direction but must jump over and hence captu
 Player wins when opponent has __no piece__ in the board.
 
 
-
-![device-2022-08-28-104720](https://user-images.githubusercontent.com/70910355/187064026-43c4cedb-7cec-4af0-bde9-3288abe7be96.gif)
